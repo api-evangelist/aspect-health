@@ -1,0 +1,31 @@
+# Aspect Health
+
+> Aspect Health is a digital health company offering a science-backed program for women managing PCOS (Polycystic Ovary Syndrome), combining continuous glucose monitoring (CGM), coaching from board-certified health coaches, at-home lab testing, and the Aida AI dietitian, delivered through a mobile app. It is a consumer (B2C) platform and does not currently publish a public developer API or SDK.
+
+## Programs
+- [PCOS Program](https://aspect-health.com/): CGM monitoring, personalized coaching, and at-home lab testing
+- [Weight Loss Program](https://aspect-health.com/weight-purchase): Weight management program
+- [Women's Health Program](https://aspect-health.com/womens-health): General women's health program
+- [21 Day Check Up](https://aspect-health.com/checkup): Assessment service
+- [Coaches](https://aspect-health.com/coaching): Board-certified health coaches
+- [Science](https://aspect-health.com/aspect-science): The research behind the program
+
+## Company
+- [About](https://aspect-health.com/about): About Aspect Health
+- [Blog](https://www.aspect-health.com/blog): PCOS management, symptoms, weight loss, diet, fertility, pregnancy, and mental health articles
+- [Reviews](https://aspect-health.com/aspect-reviews): Member reviews
+- [Careers](https://aspect-health.com/careers): Open roles
+
+## Get started
+- [Get Started](https://hello.aspect-health.com/): Onboarding
+- [Sign Up](https://pcosplan.aspect-health.com/): Enroll in the PCOS program
+
+## Support & legal
+- [Contact Us](https://aspect-health.com/contact-us): support@aspect-health.com
+- [Terms and Conditions](https://aspectapp.notion.site/Terms-and-Conditions-of-Aspect-Health-Global-Inc-043b226275a14902b3b85b12a2fd4ebe)
+- [Privacy Policy](https://cdn.prod.website-files.com/5e185e46d27bcfd7730106db/68ef8feaec90e26d40abfae5_Privacy%20Policy%2010_15_2025.pdf)
+- [Cookie Policy](https://aspect-health.com/cookie-policy-en)
+
+## Notes for agents
+- No public developer API, SDK, MCP server, OpenAPI, or webhook surface is published as of 2026-07-18.
+- No /.well-known/ discovery documents, llms.txt, or security.txt were found.

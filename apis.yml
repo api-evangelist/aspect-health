@@ -1,7 +1,27 @@
 aid: aspect-health
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/aspect-health.png
 name: Aspect Health
-description: Aspect Health is a company surfaced as a portfolio company of techstars and added to the
-  API Evangelist network as a stub for enrichment. This profile is a lead awaiting the enrichment pipeline.
+description: >-
+  Aspect Health is a digital health company offering a science-backed program
+  for women managing PCOS (Polycystic Ovary Syndrome). Its PCOS program combines
+  continuous glucose monitoring (CGM), personalized coaching from board-certified
+  health coaches, at-home lab testing for inflammation, hormonal, cardiovascular,
+  and metabolic markers, and the Aida AI dietitian, all delivered through a mobile
+  app. Additional programs cover weight loss, general women's health, and a 21-day
+  check up, with HSA/FSA-eligible plans. Aspect Health is a Techstars-backed
+  company and operates as a consumer (B2C) health platform; it does not currently
+  publish a public developer API, SDK, or MCP server.
 url: https://raw.githubusercontent.com/api-evangelist/aspect-health/refs/heads/main/apis.yml
 x-type: company
 x-source: vc-portfolio
@@ -11,9 +31,17 @@ x-tier: stub
 x-tier-reason: portfolio-lead
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-18'
 tags:
 - Company
+- Health
+- Digital Health
+- Women's Health
+- PCOS
+- Continuous Glucose Monitoring
+- Telehealth
+- Nutrition
+- Wellness
 apis: []
 maintainers:
 - FN: Kin Lane
@@ -21,5 +49,24 @@ maintainers:
 - FN: APIs.json
   email: info@apis.io
 common:
+- type: DomainSecurity
+  url: security/aspect-health-domain-security.yml
+- type: LLMsTxt
+  url: llms/aspect-health-llms.txt
 - type: Website
   url: https://aspect-health.com/
+- type: Blog
+  url: https://www.aspect-health.com/blog
+- type: Support
+  url: https://aspect-health.com/contact-us
+- type: SignUp
+  url: https://pcosplan.aspect-health.com/
+- type: TermsOfService
+  url: https://aspectapp.notion.site/Terms-and-Conditions-of-Aspect-Health-Global-Inc-043b226275a14902b3b85b12a2fd4ebe
+- type: PrivacyPolicy
+  url: https://cdn.prod.website-files.com/5e185e46d27bcfd7730106db/68ef8feaec90e26d40abfae5_Privacy%20Policy%2010_15_2025.pdf
+x-enrichment:
+  date: '2026-07-19'
+  status: backfilled
+  pass: local-v1
+  note: backfilled from .gitignore signal + verified work evidence
