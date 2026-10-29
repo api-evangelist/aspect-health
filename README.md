@@ -64,6 +64,84 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Aspect Health is a company surfaced as a portfolio company of techstars and added to the API Evangelist network as a stub for enrichment. This profile is a lead awaiting the enrichment pipeline.
+Aspect Health is a digital health company offering a science-backed program for women managing PCOS (Polycystic Ovary Syndrome). Its PCOS program combines continuous glucose monitoring (CGM), personalized coaching from board-certified health coaches, at-home lab testing for inflammation, hormonal, cardiovascular, and metabolic markers, and the Aida AI dietitian, all delivered through a mobile app. Additional programs cover weight loss, general women's health, and a 21-day check up, with HSA/FSA-eligible plans. Aspect Health is a Techstars-backed company and operates as a consumer (B2C) health platform; it does not currently publish a public developer API, SDK, or MCP server.
 
-Backed by: techstars — https://aspect-health.com/
+**Areas:** Company · Health · Digital Health · Women's Health · PCOS · Continuous Glucose Monitoring · Telehealth · Nutrition · Wellness
+
+## Aspect Health on APIs.io
+
+Everything profiled for Aspect Health is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/aspect-health/](https://apis.io/providers/aspect-health/)** — or go straight to one of the APIs or properties below.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Security (1)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Aspect Health Domain Security](https://apis.io/security/aspect-health/aspect-health-domain-security/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://aspect-health.com/)
+- [Sign up](https://pcosplan.aspect-health.com/)
+- [Support](https://aspect-health.com/contact-us)
+- [Blog](https://www.aspect-health.com/blog)
+- [Terms of service](https://aspectapp.notion.site/Terms-and-Conditions-of-Aspect-Health-Global-Inc-043b226275a14902b3b85b12a2fd4ebe)
+- [Privacy policy](https://cdn.prod.website-files.com/5e185e46d27bcfd7730106db/68ef8feaec90e26d40abfae5_Privacy%20Policy%2010_15_2025.pdf)
+
+## API Evangelist rating
+
+**Kin Score 11.0** — emerging · rubric 0.24.0 · scored 2026-10-17
+
+| Facet | Score |
+|---|---|
+| Discoverability | 55.4 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 0.0 |
+| Developer ergonomics | 7.1 |
+| Access clarity | 21.1 |
+
+**Agent readiness 0.0** — human-only
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+
+**Regulatory alignment 10.9** — Health
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/aspect-health/](https://apis.io/providers/aspect-health/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Aspect Health: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/aspect-health/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
